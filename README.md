@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-Created to familiarise myself with GitHub and how it works.
+Just another repository created to familiarise myself with GitHub and how it works.
